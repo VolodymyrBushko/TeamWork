@@ -15,8 +15,7 @@ namespace Purse
         public Form1()
         {
             InitializeComponent();
-            //asadawwd
-            ///www
+           
         }
     }
 }
