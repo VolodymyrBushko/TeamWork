@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purse", "Purse\Purse.csproj", "{095C4C87-9021-4B8D-8F6A-32B721D8DD21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCardDll", "BusinessCardDll\BusinessCardDll.csproj", "{610CE488-7D8A-49D4-9489-B57D2B78957A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyDll", "Money\MoneyDll.csproj", "{CE9F4550-1E09-4B2B-9C28-FC559B58FC68}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardGid", "CreditCardGid\CreditCardGid.csproj", "{A03B6388-88A4-417A-A8F3-2D8D9F1375FC}"
 EndProject
 Global

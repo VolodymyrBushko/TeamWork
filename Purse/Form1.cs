@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BusinessCardDll;
+using Money;
 using CreditCardGid;
 
 namespace Purse
@@ -18,6 +20,8 @@ namespace Purse
             InitializeComponent();
             //sasasa
            
+            //asadawwd
+            ///www
         }
 
         private void button2_Click(object sender, EventArgs e)
