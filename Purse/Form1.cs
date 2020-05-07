@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CreditCardGid;
 
 namespace Purse
 {
@@ -17,6 +18,12 @@ namespace Purse
             InitializeComponent();
             //sasasa
            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CreditCardGid.CreditCard creditCard = new CreditCard();
+            creditCard.Number_Credit_Card();
         }
     }
 }
