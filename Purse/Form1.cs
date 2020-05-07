@@ -16,6 +16,7 @@ namespace Purse
         {
             InitializeComponent();
             //asadawwd
+            ///www
         }
     }
 }
