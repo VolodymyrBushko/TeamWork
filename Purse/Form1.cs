@@ -15,7 +15,7 @@ namespace Purse
         public Form1()
         {
             InitializeComponent();
-           
+            int i = 10;
         }
     }
 }
