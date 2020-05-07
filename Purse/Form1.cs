@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BusinessCardDll;
 
 namespace Purse
 {
@@ -16,6 +17,11 @@ namespace Purse
         {
             InitializeComponent();
             int i = 10;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Card.ShowBusinessCard();
         }
     }
 }
