@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BusinessCardDll;
 using Money;
 
 namespace Purse
@@ -16,11 +17,8 @@ namespace Purse
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Money.Money.PrintMoney();
+            //asadawwd
+            ///www
         }
     }
 }
